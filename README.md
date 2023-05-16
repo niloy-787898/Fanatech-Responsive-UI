@@ -1,2 +1,2 @@
 ﻿# fanatech-task( deployment link)
-https://fanatech-task-q7790n223-khanniloytahsin-gmailcom.vercel.app/
+fanatech-responsive-iijw8lacm-khanniloytahsin-gmailcom.vercel.app
